@@ -6,11 +6,7 @@ https://kns.cnki.net/kcms/detail/11.2127.TP.20200818.1003.002.html
 
 # some details
 
-1.The number of UAVs is 10 and the topology is
-
- <img src="D:\Others\learn\UAV\报告\graph (1).png" alt="graph (1)" style="zoom:80%;" />
-
-UAV0 is the leader.
+1.UAV0 is the leader.
 
 2. we did not limit the maximum speed of the vehicle
 
